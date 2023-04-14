@@ -1,0 +1,73 @@
+
+.contenedor{
+    
+    width: 100%;
+    height: 1400px;
+    background-color: rgb(243, 200, 241);
+}
+.encabezado{
+    width: 100%;
+    height: 150px;
+    background-color:rgb(187 172 227 / 61%);
+    font-size: 30px;
+    text-align: center;
+}
+.menu{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(233, 175, 245);
+    display: flex;
+} 
+.Tecnología{
+    width: 90px;
+    height: 98px;
+    background-color:rgb(228, 95, 255);
+    margin: 2px; 
+    font-size: 15px;
+}
+.Sociales{
+    width: 90px;
+    height: 98px;
+    background-color:rgb(214 91 239);
+    margin: 2px;
+    
+}
+.Matemáticas{
+    width: 90px;
+    height: 98px;
+    background-color:rgb(247, 75, 195);
+    margin: 2px;
+}
+.Inglés{
+    width: 90px;
+    height: 98px;
+    background-color:rgb(155, 69, 235);
+    margin: 2px;
+}
+.Biología{
+    width: 90px;
+    height: 98px;
+    background-color:rgb(238, 132, 229);
+    margin: 2px;   
+}
+
+.contenedor2{
+    width: 100%;
+    height: 1200px;
+    background-color:rgb(114, 243, 243);
+    display: flex;
+}
+.izquierdo{
+    width: 20%;
+    height: 1200px;
+    background-color: rgb(123, 246, 255);
+}
+.centro {
+width: 60%;
+height: 1200px;
+background-color: white;
+font-size: 20px;
+}
+    
+    
+    
