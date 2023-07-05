@@ -62,4 +62,11 @@
      
     
     }
-    
+    .Texto
+    {
+    position: relative;
+    top: 80px;
+    color: rgb(231, 89, 208);
+    font-size: 40px;
+    left: -382px;
+    }
