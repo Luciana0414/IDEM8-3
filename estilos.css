@@ -11,12 +11,20 @@
     
     body{
     
-    background-image: url("ImagenFondo.jpg");
+    background-image: url("Imagen\ fondo2.jpg");
     
     background-repeat: no-repeat;
     
     }
+    .FondoT{
     
+        background-image: url("IMAGEN\ F.jpg");
+        
+        background-repeat: no-repeat;
+        
+        }
+        
+        
     
     
     .img{
@@ -70,3 +78,52 @@
     font-size: 40px;
     left: -382px;
     }
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagentecno{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("Operadores\ Electricos.png");
+        
+        }
+        
+        
+        
+        .textotecno{
+        
+        text-align: justify;
+        
+        color: rgb(0, 0, 0);
+        
+        font-size: 20px;
+        
+        
+        
+        }
