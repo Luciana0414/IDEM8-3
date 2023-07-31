@@ -26,11 +26,28 @@
     
         }
 
+        .fondoingles{
+            background-image: url("Fondo\ ingles.jpg");
+            background-size: cover;
+            background-repeat: repeat;
+
+        }
+
         .fondoMatematicas{
     
             background-image: url("Fondo\ Matematicas.jpg");
             background-size: cover;
             background-repeat: no-repeat;
+        }
+
+        .FondoReligion{
+    
+            background-image: url("Fondo\ Religion\ .jpg");
+
+            background-size: cover;
+
+            background-repeat: repeat;
+
         }
 
     .FondoT{
@@ -167,16 +184,15 @@
 
             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
             
+            width: 500%;
             
-            
+            height: 200px;
             }
 
             INGLES
 
-            .FondoI{
-    
+            .fondoingles{
                 background-image: url("Fondo\ ingles.jpg");
-                
                 background-repeat: repeat;
                 
                 }
@@ -227,15 +243,17 @@
                     font-size: 25px;
                     
                    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+                   width: 500%;
+
+                   height: 200px;
                     
                     }
 
                     .titulo {
                         text-align: center;
-                        font-size: 25px;
-                        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-                        color: black;
-                    
+                        font-size: 60px;
+                        font-family: josefin Verdana, Geneva, Tahoma, sans-serif;
                     }
 
         
@@ -247,6 +265,7 @@
             background-repeat: repeat;
                         
                 }
+
             .contenido{
                 
                 height: 280px;
@@ -291,11 +310,15 @@
                             
             color: rgb(25, 26, 26);
                             
-            font-size: 30px;
+            font-size: 25px;
                             
             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-                            
+
+            width: 500%;
+                          
+            height: 200px;
             }
+
             .titulo{
             text-align: center;
             font-size: 25px;
