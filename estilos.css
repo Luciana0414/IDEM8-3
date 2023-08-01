@@ -42,7 +42,7 @@
 
         .FondoReligion{
     
-            background-image: url("Fondo\ Religion\ .jpg");
+            background-image: url("Fondo\ Religion.jpg");
 
             background-size: cover;
 
@@ -336,9 +336,9 @@
                 }
                 .contenido{
         
-                    height: 280px;
+                    height: 500px;
                     
-                    width: 100%;
+                    width: 200%;
                     
                     position: absolute;
                     
@@ -387,7 +387,7 @@
                     .titulo {
                         text-align: center;
                         font-size: 25px;
-                        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+                        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
                         color: black;
                     
                     }
@@ -395,13 +395,7 @@
 
 
 
-                    .FondoReligion{
-    
-                        background-image: url("Fondo\ Religion\ .jpg");
-                        
-                        background-repeat: repeat;
-                        
-                        }
+                  
                         .contenido{
                 
                             height: 280px;
