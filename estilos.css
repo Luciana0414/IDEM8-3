@@ -3,7 +3,6 @@
     padding: 0px;
     
     margin: 0px;
-    
     }
     
     
@@ -14,8 +13,7 @@
     background-image: url("Imgen\ Fondo2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    
-    }
+  }
     .fondosociales{
     
         background-image: url("Fondo\ Sociales.jpg");
@@ -24,7 +22,7 @@
         
     
     
-        }
+ }
 
         .fondoingles{
             background-image: url("Fondo\ ingles.jpg");
@@ -212,26 +210,7 @@
                     
                      
                     
-                    .imagening{
-                    
-                     
-                    
-                    background-repeat: no-repeat;
-                    
-                    float:left;
-                    
-                    height: 200px;
-                    
-                    width: 260px;
-                    
-                    margin-left: 5px;
-                    
-                    margin-right:5px;
-                    
-                    background-image: url("");
-                    
-                    }
-                    
+                   
                     
                     
                     .textoing{
@@ -252,7 +231,7 @@
 
                     .titulo {
                         text-align: center;
-                        font-size: 60px;
+                        font-size: 30px;
                         font-family: josefin Verdana, Geneva, Tahoma, sans-serif;
                     }
 
@@ -319,12 +298,7 @@
             height: 200px;
             }
 
-            .titulo{
-            text-align: center;
-            font-size: 25px;
-            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-            color: black;
-            }
+           
 
 
             .FondoBiologia{
@@ -384,13 +358,7 @@
                     
                     }
 
-                    .titulo {
-                        text-align: center;
-                        font-size: 25px;
-                        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-                        color: black;
-                    
-                    }
+                   
 
 
 
@@ -446,10 +414,111 @@
                             
                             }
         
-                            .titulo {
-                                text-align: center;
+                           
+                            .Fmatemáticas{
+    
+                                background-image: url("FondoM.jpg");
+                                            
+                                background-repeat: repeat;
+                                            
+                                    }
+                    
+                                .contenido{
+                                    
+                                    height: 280px;
+                                                
+                                width: 100%;
+                                                
+                                position: absolute;
+                                                
+                                top: 410px;
+                                                
+                                                 
+                                                
+                                }
+                                                
+                                                 
+                                                
+                                .imagenM{
+                                                
+                                                 
+                                                
+                                background-repeat: no-repeat;
+                                                
+                                float:left;
+                                                
+                                height: 200px;
+                                                
+                                width: 260px;
+                                                
+                                margin-left: 5px;
+                                                
+                                margin-right:5px;
+                                                
+                                background-image: url("");
+                                                
+                                 }
+                                                
+                                                
+                                                
+                                .textoM{
+                                                
+                                text-align: justify;
+                                                
+                                color: rgb(25, 26, 26);
+                                                
                                 font-size: 25px;
-                                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-                                color: black;
-                            
-                            }
+                                                
+                                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                    
+                                width: 500%;
+                                              
+                                height: 200px;
+                                }
+                    
+                               
+                                .FInglés{
+    
+                                    background-image: url("FondoI.jpg");
+                                                
+                                    background-repeat: repeat;
+                                                
+                                        }
+                        
+                                    .contenido{
+                                        
+                                        height: 280px;
+                                                    
+                                    width: 100%;
+                                                    
+                                    position: absolute;
+                                                    
+                                    top: 410px;
+                                                    
+                                                     
+                                                    
+                                    }
+                                                    
+                                                     
+                                                    
+                                  
+                                                    
+                                                    
+                                                    
+                                    .textoI{
+                                                    
+                                    text-align: justify;
+                                                    
+                                    color: rgb(25, 26, 26);
+                                                    
+                                    font-size: 45px;
+                                                    
+                                    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                        
+                                    width: 100%;
+                                                  
+                                    height: 200px;
+                                    }
+                        
+                                   
+                        
