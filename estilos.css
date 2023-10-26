@@ -497,6 +497,20 @@
                                                   
                                     height: 200px;
                                     }
-                        
+
+                                    .Ftecnologia{
+    
+                                        background-image: url("FondoT.jpg");
+                                                    
+                                        background-repeat: repeat;
+                                                    
+                                            }
+                                            .Fsociales{
+    
+                                                background-image: url("FondoS.jpg");
+                                                            
+                                                background-repeat: repeat;
+                                                            
+                                                    }
                                    
                         
