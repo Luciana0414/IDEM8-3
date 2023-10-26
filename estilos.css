@@ -324,25 +324,8 @@
                     
                      
                     
-                    .imagenbio{
                     
-                     
                     
-                    background-repeat: no-repeat;
-                    
-                    float:left;
-                    
-                    height: 200px;
-                    
-                    width: 260px;
-                    
-                    margin-left: 5px;
-                    
-                    margin-right:5px;
-                    
-                    background-image: url("");
-                    
-                    }
                     
                     
                     
@@ -494,17 +477,12 @@
                                     position: absolute;
                                                     
                                     top: 410px;
-                                                    
-                                                     
+         
                                                     
                                     }
                                                     
                                                      
-                                                    
-                                  
-                                                    
-                                                    
-                                                    
+                    
                                     .textoI{
                                                     
                                     text-align: justify;
